@@ -5,5 +5,6 @@ This repository is used for me to practice some algorithm and data structure pro
 ## Problem list
 | Problem                          | Status  | Solution                               |
 | -------------------------------- | ------- | -------------------------------------- |
-| [Reverse](./problems/ofugsnuid/) | Working | [Java](./problems/ofugsnuid/Main.java) |
+| [Reverse](./problems/ofugsnuid/) | Done    | [Java](./problems/ofugsnuid/Main.java) |
+| [Keystrokes](./problems/lyklagangriti) | Working | [Java](.problems/lyklagangriti/Main.java)|
 
