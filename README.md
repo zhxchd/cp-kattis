@@ -7,4 +7,5 @@ This repository is used for me to practice some algorithm and data structure pro
 | -------------------------------- | ------- | -------------------------------------- |
 | [Reverse](./problems/ofugsnuid/) | Done    | [Java](./problems/ofugsnuid/Main.java) |
 | [Keystrokes](./problems/lyklagangriti) | Done | [Java](./problems/lyklagangriti/Main.java)|
+| [Graduation](./problems/skolavslutningen) | Working | [Java](./probelems/skolavslutningen/Main.java)|
 
