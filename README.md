@@ -8,7 +8,7 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status | Solution |
 |-|-|-|-|-|
-| 7 | [Bridges](./problems/bryr) | 1.4 - 2.6 | Working | [Java](./problems/bryr/Main.java)|
+| 7 | [Bridges](./problems/bryr) | 1.4 - 2.6 | Accepted (100) | [Java](./problems/bryr/Main.java)|
 | 6 | [Birthday Memorization](./problems/fodelsedagsmemorisering) | 1.3 - 1.7 | Accepted (100) | [Java](./problems/fodelsedagsmemorisering/Main.java)|
 | 5 | [Arrangement](./problems/upprodun) | 1.3 - 1.8 | Accepted (100) | [Java](./problems/upprodun/Main.java)|
 | 4 | [Homework](./problems/heimavinna) | 1.1 - 1.4 | Accepted (100) | [Java](./problems/heimavinna/Main.java)|
