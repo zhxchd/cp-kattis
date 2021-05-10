@@ -6,12 +6,13 @@ This repository is used for me to practice some algorithm and data structure pro
 
 Newly-solved problems are listed on the top of the table.
 
-| | Problem | Difficulty | Status | Solution |
-|-|-|-|-|-|
-| 7 | [Bridges](./problems/bryr) | 1.4 - 2.6 | Accepted (100) | [Java](./problems/bryr/Main.java)|
-| 6 | [Birthday Memorization](./problems/fodelsedagsmemorisering) | 1.3 - 1.7 | Accepted (100) | [Java](./problems/fodelsedagsmemorisering/Main.java)|
-| 5 | [Arrangement](./problems/upprodun) | 1.3 - 1.8 | Accepted (100) | [Java](./problems/upprodun/Main.java)|
-| 4 | [Homework](./problems/heimavinna) | 1.1 - 1.4 | Accepted (100) | [Java](./problems/heimavinna/Main.java)|
-| 3 | [Graduation](./problems/skolavslutningen) | 1.2 - 1.9 | Accepted (100) | [Java](./probelems/skolavslutningen/Main.java)|
-| 2 | [Keystrokes](./problems/lyklagangriti) | 1.5 - 2.5 | Accepted (100) | [Java](./problems/lyklagangriti/Main.java)|
-| 1 | [Reverse](./problems/ofugsnuid/) | 1.2 - 1.4 | Accepted (100) | [Java](./problems/ofugsnuid/Main.java) |
+| | Problem | Difficulty | Status | Solution | Hint |
+|-|-|-|-|-|-|
+| 8 | [Ninety-nine](./problems/ninetynine) | 1.3 - 2.7 | Accepted (100) | [Java](./problems/ninetynine/Main.java)| Mod 3, randomized |
+| 7 | [Bridges](./problems/bryr) | 1.4 - 2.6 | Accepted (100) | [Java](./problems/bryr/Main.java)| SSSP, memory sensitive |
+| 6 | [Birthday Memorization](./problems/fodelsedagsmemorisering) | 1.3 - 1.7 | Accepted (100) | [Java](./problems/fodelsedagsmemorisering/Main.java)| Map, sorted output |
+| 5 | [Arrangement](./problems/upprodun) | 1.3 - 1.8 | Accepted (100) | [Java](./problems/upprodun/Main.java)| Trivial integer division |
+| 4 | [Homework](./problems/heimavinna) | 1.1 - 1.4 | Accepted (100) | [Java](./problems/heimavinna/Main.java)| Char-by-char process |
+| 3 | [Graduation](./problems/skolavslutningen) | 1.2 - 1.9 | Accepted (100) | [Java](./probelems/skolavslutningen/Main.java)| Union find |
+| 2 | [Keystrokes](./problems/lyklagangriti) | 1.5 - 2.5 | Accepted (100) | [Java](./problems/lyklagangriti/Main.java)| Char-by-char process |
+| 1 | [Reverse](./problems/ofugsnuid/) | 1.2 - 1.4 | Accepted (100) | [Java](./problems/ofugsnuid/Main.java) | Trivial reverse, use fast Java i/o |
