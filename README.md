@@ -8,6 +8,16 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status | Solution | Hint |
 |-|-|-|-|-|-|
+| 20| [Cat Coat Colors](./problems/catcoat) | 3.0 | | | |
+| 19| [Matchsticks](./problems/matchsticks) | 4.3 | | | |
+| 18| [Canvas Line](./problems/canvasline) | 4.1 | | | |
+| 17| [Cake](./problems/cake) | 4.3 | | | |
+| 16| [Falcon Dive](./problems/falcondive) | 2.8 | | | |
+| 15| [Andrew the Ant](./problems/andrewant) | 4.8 | | | |
+| 14| [The Ups and Downs of Investing](./problems/upsanddownsofinvesting) | 3.6 | | | |
+| 13| [Physical Music](./problems/physicalmusic) | 5.9 | | | |
+| 12| [Score!](./problems/score) | 3.4 | | | |
+| 11| [Climbing Stairs](./problems/climbingstairs) | 4.1 | | | |
 | 10| [Martian DNA](./problems/martiandna) | 1.3 - 2.6 | Accecpted (100)| [C++](./problems/martiandna/main.cpp) | Sliding window and count occurences |
 | 9 | [Paths](./problems/paths) | 1.3 - 3.4 | Accepted (100) | [Java](./problems/paths/Main.java) | Intuitive dfs is too slow, DP with bitmask (bitmask can avoid duplicate vertices) |
 | 8 | [Ninety-nine](./problems/ninetynine) | 1.3 - 2.7 | Accepted (100) | [Java](./problems/ninetynine/Main.java)| Mod 3, randomized |
