@@ -8,7 +8,7 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status | Solution | Hint |
 |-|-|-|-|-|-|
-| 10| [Martian DNA](./problems/martiandna) | 1.3 - 2.6 | Working | [Java](./problems/martiandna/Main.java) | |
+| 10| [Martian DNA](./problems/martiandna) | 1.3 - 2.6 | Accecpted (100)| [C++](./problems/martiandna/main.cpp) | |
 | 9 | [Paths](./problems/paths) | 1.3 - 3.4 | Accepted (100) | [Java](./problems/paths/Main.java) | Intuitive dfs is too slow, DP with bitmask (bitmask can avoid duplicate vertices) |
 | 8 | [Ninety-nine](./problems/ninetynine) | 1.3 - 2.7 | Accepted (100) | [Java](./problems/ninetynine/Main.java)| Mod 3, randomized |
 | 7 | [Bridges](./problems/bryr) | 1.4 - 2.6 | Accepted (100) | [Java](./problems/bryr/Main.java)| SSSP, memory sensitive |
