@@ -16,7 +16,7 @@ Newly-solved problems are listed on the top of the table.
 | 15| [Andrew the Ant](./problems/andrewant) | 4.8 | | | |
 | 14| [The Ups and Downs of Investing](./problems/upsanddownsofinvesting) | 3.6 | | | |
 | 13| [Physical Music](./problems/physicalmusic) | 5.9 | | | |
-| 12| [Score!](./problems/score) | 3.4 | | | |
+| 12| [Score!](./problems/score) | 3.4 | Accecpted (100) | [C++](./problems/score/main.cpp) | Trivial |
 | 11| [Climbing Stairs](./problems/climbingstairs) | 4.1 | Accecpted (100) | [C++](./problems/climbingstairs/main.cpp)| Trivial |
 | 10| [Martian DNA](./problems/martiandna) | 1.3 - 2.6 | Accecpted (100)| [C++](./problems/martiandna/main.cpp) | Sliding window and count occurences |
 | 9 | [Paths](./problems/paths) | 1.3 - 3.4 | Accepted (100) | [Java](./problems/paths/Main.java) | Intuitive dfs is too slow, DP with bitmask (bitmask can avoid duplicate vertices) |
