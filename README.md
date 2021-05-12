@@ -14,7 +14,7 @@ Newly-solved problems are listed on the top of the table.
 | 17| [Cake](./problems/cake) | 4.3 | Working [0] | | |
 | 16| [Falcon Dive](./problems/falcondive) | 2.8 | Working [0] | | |
 | 15| [Andrew the Ant](./problems/andrewant) | 4.8 | Working [0] | | |
-| 14| [The Ups and Downs of Investing](./problems/upsanddownsofinvesting) | 3.6 | Working [0] | | |
+| 14| [The Ups and Downs of Investing](./problems/upsanddownsofinvesting) | 3.6 | Solved [1] | [C++](./problems/upsanddownsofinvesting/main.cpp) | Trivial counting |
 | 13| [Physical Music](./problems/physicalmusic) | 5.9 | Solved [4] | [C++](./problems/physicalmusic/main.cpp) | If anyone else doing worse than me in single does better than me in downloading: I have CDs. Sorted output. |
 | 12| [Score!](./problems/score) | 3.4 | Solved [1] | [C++](./problems/score/main.cpp) | Trivial |
 | 11| [Climbing Stairs](./problems/climbingstairs) | 4.1 | Solved [1] | [C++](./problems/climbingstairs/main.cpp)| Trivial |
