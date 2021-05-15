@@ -12,10 +12,10 @@ Newly-solved problems are listed on the top of the table.
 | 19| [Matchsticks](./problems/matchsticks) | 4.3 | Working [0] | | |
 | 18| [Canvas Line](./problems/canvasline) | 4.1 | Working [0] | | |
 | 17| [Cake](./problems/cake) | 4.3 | Working [0] | | |
-| 16| [Falcon Dive](./problems/falcondive) | 2.8 | Working [0] | | |
+| 16| [Falcon Dive](./problems/falcondive) | 2.8 | Solved [1] | [C++](problems/falcondive/main.cpp) | Compare the anchor of the two silhouettes |
 | ***15*** | [***Andrew the Ant***](./problems/andrewant) | ***4.8*** | ***Working [6], Time Limit Exceeded*** | [***C++***](./problems/andrewant/main.cpp) | ***Probably I try to insert duplicate timestamps to the time queue (which is a `set`)*** |
 | 14| [The Ups and Downs of Investing](./problems/upsanddownsofinvesting) | 3.6 | Solved [1] | [C++](./problems/upsanddownsofinvesting/main.cpp) | Trivial counting |
-| 13| [Physical Music](./problems/physicalmusic) | 5.9 | Solved [4] | [C++](./problems/physicalmusic/main.cpp) | If anyone else doing worse than me in single does better than me in downloading: I have CDs. Sorted output. |
+| 13| [Physical Music](./problems/physicalmusic) | 5.9 | Solved [4] | [C++](./problems/physicalmusic/main.cpp) | If anyone else doing worse than me in single does better than me in downloading: I have CDs, sorted output |
 | 12| [Score!](./problems/score) | 3.4 | Solved [1] | [C++](./problems/score/main.cpp) | Trivial |
 | 11| [Climbing Stairs](./problems/climbingstairs) | 4.1 | Solved [1] | [C++](./problems/climbingstairs/main.cpp)| Trivial |
 | 10| [Martian DNA](./problems/martiandna) | 1.3 - 2.6 | Solved [4] | [C++](./problems/martiandna/main.cpp) | Sliding window and count occurences |
