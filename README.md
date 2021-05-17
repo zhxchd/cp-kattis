@@ -10,7 +10,7 @@ Newly-solved problems are listed on the top of the table.
 |-|-|-|-|-|-|
 | 20| [Cat Coat Colors](./problems/catcoat) | 3.0 | Working [0] | | |
 | 19| [Matchsticks](./problems/matchsticks) | 4.3 | Working [0] | | |
-| 18| [Canvas Line](./problems/canvasline) | 4.1 | Working [0] | | |
+| 18| [Canvas Line](./problems/canvasline) | 4.1 | Solved [9] | [C++](problems/canvasline.cpp) | Greedily select the rightmost peg if possible, be careful with corner cases |
 | 17| [Cake](./problems/cake) | 4.3 | Solved [3] | [C++](problems/cake/main.cpp) | Trivial, process the rectangular line by line |
 | 16| [Falcon Dive](./problems/falcondive) | 2.8 | Solved [1] | [C++](problems/falcondive/main.cpp) | Compare the anchor of the two silhouettes |
 | ***15*** | [***Andrew the Ant***](./problems/andrewant) | ***4.8*** | ***Working [6], Time Limit Exceeded*** | [***C++***](./problems/andrewant/main.cpp) | ***Probably I try to insert duplicate timestamps to the time queue (which is a `set`)*** |
