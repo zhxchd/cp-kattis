@@ -9,7 +9,7 @@ Newly-solved problems are listed on the top of the table.
 | | Problem | Difficulty | Status [Tries] | Solution | Hint |
 |-|-|-|-|-|-|
 | 20| [Cat Coat Colors](./problems/catcoat) | 3.0 | Working [0] | | |
-| 19| [Matchsticks](./problems/matchsticks) | 4.3 | Working [0] | | |
+| 19| [Matchsticks](./problems/matchsticks) | 4.3 | Solved [4] | [C++](problems/matchsticks/main.cpp) | Largest numbers are trivial, brute force small instances for smallest numbers |
 | 18| [Canvas Line](./problems/canvasline) | 4.1 | Solved [9] | [C++](problems/canvasline/main.cpp) | Greedily select the rightmost peg if possible, be careful with corner cases |
 | 17| [Cake](./problems/cake) | 4.3 | Solved [3] | [C++](problems/cake/main.cpp) | Trivial, process the rectangular line by line |
 | 16| [Falcon Dive](./problems/falcondive) | 2.8 | Solved [1] | [C++](problems/falcondive/main.cpp) | Compare the anchor of the two silhouettes |
