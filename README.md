@@ -8,7 +8,8 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Hint |
 |-|-|-|-|-|-|
-| 20| [Cat Coat Colors](./problems/catcoat) | 3.0 | Haven't Tried [0] | | |
+| 21| [Crashing Robots](./problems/crashingrobots) | 4.2 | Solved [5] | [C++](problems/crashingrobots/main.cpp) | Using BSTs to store all robots in each row and column so that we can easily find the blocking robot, I use 'C++''s 'set' |
+| 20| [Cat Coat Colors](./problems/catcoat) | 3.0 | Haven't Tried [0] | | Looks really tedious, will try later |
 | 19| [Matchsticks](./problems/matchsticks) | 4.3 | Solved [4] | [C++](problems/matchsticks/main.cpp) | Largest numbers are trivial, brute force small instances for smallest numbers |
 | 18| [Canvas Line](./problems/canvasline) | 4.1 | Solved [9] | [C++](problems/canvasline/main.cpp) | Greedily select the rightmost peg if possible, be careful with corner cases |
 | 17| [Cake](./problems/cake) | 4.3 | Solved [3] | [C++](problems/cake/main.cpp) | Trivial, process the rectangular line by line |
