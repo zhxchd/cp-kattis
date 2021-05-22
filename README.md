@@ -8,6 +8,7 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Hint |
 |-|-|-|-|-|-|
+| 23| [Add 'Em Up!](./problem/addemup) | 4.8 | Solved [1] | [C++](problems/addemup/main.cpp) | Maintain a `map` from values to indices |
 | 22| [Bumper-To-Bumper Traffic](./problems/traffic) | 3.9 | Working [4], WA | [C++](problems/traffic/main.cpp) | I oversimplified the problem, will try later |
 | 21| [Crashing Robots](./problems/crashingrobots) | 4.2 | Solved [5] | [C++](problems/crashingrobots/main.cpp) | Using BSTs to store all robots in each row and column so that we can easily find the blocking robot, I use 'C++''s 'set' |
 | 20| [Cat Coat Colors](./problems/catcoat) | 3.0 | Haven't Tried [0] | | Looks really tedious, will try later |
