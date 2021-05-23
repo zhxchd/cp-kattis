@@ -8,7 +8,7 @@ I'll probably make this repository public when I reach 100 problems.
 
 Newly-solved problems are listed on the top of the table.
 
-| | Problem | Difficulty | Status [Tries] | Solution | Hint |
+| | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
 | 28| [The Sound of Silence](./problems/sound) | 5.0 | Solved [2] | [C++](./problems/sound/main.cpp) | Sliding window that records counts of all internal values, I use `std::map` for simplicity |
 | 27| [Convoy](./problems/convoy) | 5.7 | Haven't Tried [0] | | |
