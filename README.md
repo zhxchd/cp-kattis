@@ -11,7 +11,7 @@ Newly-solved problems are listed on the top of the table.
 | | Problem | Difficulty | Status [Tries] | Solution | Hint |
 |-|-|-|-|-|-|
 | 26| [Bridges and Tunnels](./problems/bridgesandtunnels) | 3.0 | Solved [1] | [C++](./problems/bridgesandtunnels/main.cpp) | A slightly modified version of UFDS |
-| 25 | [Znanstvenik](./problems/znanstvenik) | 3.9 | Haven't Tried [0] | | |
+| 25| [Znanstvenik](./problems/znanstvenik) | 3.9 | Solved [1] | [C++](./problems/znanstvenik/main.cpp) | Complete search, rotate for easier string construction |
 | 24| [Parallel Analysis](./problems/parallelanalysis) | 3.7 | Haven't Tried [0] | | |
 | 23| [Add 'Em Up!](./problems/addemup) | 4.8 | Solved [1] | [C++](problems/addemup/main.cpp) | Maintain a `map` from values to indices |
 | 22| [Bumper-To-Bumper Traffic](./problems/traffic) | 3.9 | Working [4], WA | [C++](problems/traffic/main.cpp) | I oversimplified the problem, will try later |
