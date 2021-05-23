@@ -1,6 +1,13 @@
+- [Competitive Programming Practice](#competitive-programming-practice)
+  * [Problem list](#problem-list)
+  * [Problem Sources](#problem-sources)
+    + [CS3233 AY2021S2 Assignments](#cs3233-ay2021s2-assignments)
+
 # Competitive Programming Practice
 
-This repository is used for me to practice some algorithm and data structure problems on Kattis. Currently, I am following the problem lists for [NUS CS3233 Competitive Programming AY2020-2021 Semester 2](https://nus.kattis.com/courses/CS3233/CS3233_S2_AY2021). I am most proficient in coding with `Java`, but I'm also practising to code with `C++`. Therefore, multiple versions of the same solution coded in different programming languages may be provided in this repository. I believe that appropriate comments along the code are sufficient to aid readers to understand the logic, so only the code and relevant testing files will be contained, instead of seperate files explaining my solutions.
+This repository is used for me to practice some algorithm and data structure problems on Kattis. I am most proficient in coding with `Java`, but I'm also practising to code with `C++`. Therefore, both programming languages have appeared in this repository. I believe that appropriate comments along the code are sufficient to aid readers to understand the logic, so only the code and relevant testing files will be contained, instead of seperate files explaining my solutions.
+
+Currently, I am following the problem lists of [NUS CS3233 Competitive Programming AY2021S2](https://nus.kattis.com/courses/CS3233/CS3233_S2_AY2021). Sources for problems in this repository are listed [here](#problem-sources).
 
 I'll probably make this repository public when I reach 100 problems.
 
