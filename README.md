@@ -17,21 +17,22 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 30| [The Big Mac Question](./problems/thebigmacquestion) | 6.7 | Working [2], WA | | Looks like a construction problem...|
 | 29| [The Sound of Silence](./problems/sound) | 5.0 | Solved [2] | [C++](./problems/sound/main.cpp) | Sliding window that records counts of all internal values, I use `std::map` for simplicity, it's perhaps an overkill and my solution is slow |
 | 28| [Music Collection](./problems/musiccollection) | 4.3 | Solved [1] | [C++](./problems/musiccollection/main.cpp) | Just brute force everything |
-| 27| [Convoy](./problems/convoy) | 5.7 | Haven't Tried [0] | | |
+| 27| [Convoy](./problems/convoy) | 5.7 | Haven't Tried [0] | | Haven't come up with an algorithm yet |
 | 26| [Bridges and Tunnels](./problems/bridgesandtunnels) | 3.0 | Solved [1] | [C++](./problems/bridgesandtunnels/main.cpp) | A slightly modified version of UFDS |
 | 25| [Znanstvenik](./problems/znanstvenik) | 3.9 | Solved [1] | [C++](./problems/znanstvenik/main.cpp) | Complete search, rotate for easier string construction |
 | 24| [Parallel Analysis](./problems/parallelanalysis) | 3.7 | Solved [1] | [C++](./problems/parallelanalysis/main.cpp) | Store last written time for each address in a `map`, using `unordered_map` will accelerate the program by a lot |
 | 23| [Add 'Em Up!](./problems/addemup) | 4.8 | Solved [1] | [C++](problems/addemup/main.cpp) | Maintain a `map` from values to indices |
-| 22| [Bumper-To-Bumper Traffic](./problems/traffic) | 3.9 | Working [4], WA | [C++](problems/traffic/main.cpp) | I oversimplified the problem, will try later |
+| 22| [Bumper-To-Bumper Traffic](./problems/traffic) | 3.9 | Working [4], WA |  | I oversimplified the problem, will try later |
 | 21| [Crashing Robots](./problems/crashingrobots) | 4.2 | Solved [5] | [C++](problems/crashingrobots/main.cpp) | Using BSTs to store all robots in each row and column so that we can easily find the blocking robot, I use `std::set` |
-| 20| [Cat Coat Colors](./problems/catcoat) | 3.0 | Haven't Tried [0] | |  |
+| 20| [Cat Coat Colors](./problems/catcoat) | 3.0 | Haven't Tried [0] | | Looks really tedious, try later |
 | 19| [Matchsticks](./problems/matchsticks) | 4.3 | Solved [4] | [C++](problems/matchsticks/main.cpp) | Largest numbers are trivial, brute force small instances for smallest numbers |
 | 18| [Canvas Line](./problems/canvasline) | 4.1 | Solved [9] | [C++](problems/canvasline/main.cpp) | Greedily select the rightmost peg if possible, be careful with corner cases |
 | 17| [Cake](./problems/cake) | 4.3 | Solved [3] | [C++](problems/cake/main.cpp) | Trivial, process the rectangular line by line |
 | 16| [Falcon Dive](./problems/falcondive) | 2.8 | Solved [1] | [C++](problems/falcondive/main.cpp) | Compare the anchor of the two silhouettes |
-| 15 | [Andrew the Ant](./problems/andrewant) | 4.8 | Working [6], TLE | [C++](./problems/andrewant/main.cpp) | Probably I try to insert duplicate timestamps to the time queue (which is a `set`) |
+| 15 | [Andrew the Ant](./problems/andrewant) | 4.8 | Working [6], TLE |  | Probably I try to insert duplicate timestamps to the time queue (which is a `set`) |
 | 14| [The Ups and Downs of Investing](./problems/upsanddownsofinvesting) | 3.6 | Solved [1] | [C++](./problems/upsanddownsofinvesting/main.cpp) | Trivial counting |
 | 13| [Physical Music](./problems/physicalmusic) | 5.9 | Solved [4] | [C++](./problems/physicalmusic/main.cpp) | If anyone else doing worse than me in single does better than me in downloading: I have CDs, sorted output |
 | 12| [Score!](./problems/score) | 3.4 | Solved [1] | [C++](./problems/score/main.cpp) | Trivial |
