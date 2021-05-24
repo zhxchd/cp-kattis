@@ -17,7 +17,8 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
-| 28| [The Sound of Silence](./problems/sound) | 5.0 | Solved [2] | [C++](./problems/sound/main.cpp) | Sliding window that records counts of all internal values, I use `std::map` for simplicity |
+| 29| [The Sound of Silence](./problems/sound) | 5.0 | Solved [2] | [C++](./problems/sound/main.cpp) | Sliding window that records counts of all internal values, I use `std::map` for simplicity |
+| 28| [Music Collection](./problems/musiccollection) | 4.3 | Solved [1] | [C++](./problems/musiccollection/main.cpp) | Just brute force everything |
 | 27| [Convoy](./problems/convoy) | 5.7 | Haven't Tried [0] | | |
 | 26| [Bridges and Tunnels](./problems/bridgesandtunnels) | 3.0 | Solved [1] | [C++](./problems/bridgesandtunnels/main.cpp) | A slightly modified version of UFDS |
 | 25| [Znanstvenik](./problems/znanstvenik) | 3.9 | Solved [1] | [C++](./problems/znanstvenik/main.cpp) | Complete search, rotate for easier string construction |
