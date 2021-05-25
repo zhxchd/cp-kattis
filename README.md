@@ -26,7 +26,7 @@ Newly-solved problems are listed on the top of the table.
 | 25| [Znanstvenik](./problems/znanstvenik) | 3.9 | Solved [1] | [C++](./problems/znanstvenik/main.cpp) | Complete search, rotate for easier string construction |
 | 24| [Parallel Analysis](./problems/parallelanalysis) | 3.7 | Solved [1] | [C++](./problems/parallelanalysis/main.cpp) | Store last written time for each address in a `map`, using `unordered_map` will accelerate the program by a lot |
 | 23| [Add 'Em Up!](./problems/addemup) | 4.8 | Solved [1] | [C++](problems/addemup/main.cpp) | Maintain a `map` from values to indices |
-| 22| [Bumper-To-Bumper Traffic](./problems/traffic) | 3.9 | Working [4], WA |  | I oversimplified the problem, will try later |
+| 22| [Bumper-To-Bumper Traffic](./problems/traffic) | 3.9 | Solved [6] | [C++](./problems/traffic/main.cpp) | Just brute force each timestamp |
 | 21| [Crashing Robots](./problems/crashingrobots) | 4.2 | Solved [5] | [C++](problems/crashingrobots/main.cpp) | Using BSTs to store all robots in each row and column so that we can easily find the blocking robot, I use `std::set` |
 | 20| [Cat Coat Colors](./problems/catcoat) | 3.0 | Haven't Tried [0] | | Looks really tedious, try later |
 | 19| [Matchsticks](./problems/matchsticks) | 4.3 | Solved [4] | [C++](problems/matchsticks/main.cpp) | Largest numbers are trivial, brute force small instances for smallest numbers |
