@@ -17,6 +17,7 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 31| [Lucky numbers](./problems/luckynumber) | 4.9 | Solved [2] | [C++](./problems/luckynumber/main.cpp) | Brute force when `n` is small, 0 when `n` greater than 25 |
 | 30| [The Big Mac Question](./problems/thebigmacquestion) | 6.7 | Working [2], WA | | Looks like a construction problem...|
 | 29| [The Sound of Silence](./problems/sound) | 5.0 | Solved [2] | [C++](./problems/sound/main.cpp) | Sliding window that records counts of all internal values, I use `std::map` for simplicity, it's perhaps an overkill and my solution is slow |
 | 28| [Music Collection](./problems/musiccollection) | 4.3 | Solved [1] | [C++](./problems/musiccollection/main.cpp) | Just brute force everything |
