@@ -33,7 +33,7 @@ Newly-solved problems are listed on the top of the table.
 | 18| [Canvas Line](./problems/canvasline) | 4.1 | Solved [9] | [C++](problems/canvasline/main.cpp) | Greedily select the rightmost peg if possible, be careful with corner cases |
 | 17| [Cake](./problems/cake) | 4.3 | Solved [3] | [C++](problems/cake/main.cpp) | Trivial, process the rectangular line by line |
 | 16| [Falcon Dive](./problems/falcondive) | 2.8 | Solved [1] | [C++](problems/falcondive/main.cpp) | Compare the anchor of the two silhouettes |
-| 15 | [Andrew the Ant](./problems/andrewant) | 4.8 | Working [6], TLE |  | Probably I try to insert duplicate timestamps to the time queue (which is a `set`) |
+| 15 | [Andrew the Ant](./problems/andrewant) | 4.8 | Solved [10] | [C++](problems/andrewant/main.cpp)  | Two important invariants: the number of ants going left at first is the number of ants falling from left; if an ant starts at `p` going left, then after `p` seconds, an ant will fall on the left |
 | 14| [The Ups and Downs of Investing](./problems/upsanddownsofinvesting) | 3.6 | Solved [1] | [C++](./problems/upsanddownsofinvesting/main.cpp) | Trivial counting |
 | 13| [Physical Music](./problems/physicalmusic) | 5.9 | Solved [4] | [C++](./problems/physicalmusic/main.cpp) | If anyone else doing worse than me in single does better than me in downloading: I have CDs, sorted output |
 | 12| [Score!](./problems/score) | 3.4 | Solved [1] | [C++](./problems/score/main.cpp) | Trivial |
