@@ -17,6 +17,7 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 33| [Grade Curving](./problems/gradecurving) | 4.5 | Solved [1] | [C++](./problems/gradecurving/main.cpp) | Trivial, just try `k` one after one |
 | 32| [Lucky numbers](./problems/luckynumber) | 4.9 | Solved [2] | [C++](./problems/luckynumber/main.cpp) | Brute force when `n` is small, 0 when `n` greater than 25 |
 | 31| [Chocolates](./problems/chocolates) | 5.0 | Solved [1] | [C++](./problems/chocolates/main.cpp) | Complete search all combinitions (as the search space is small), a polygon needs to be connected and its complement must be open |
 | 30| [The Big Mac Question](./problems/thebigmacquestion) | 6.7 | Working [2], WA | | Looks like a construction problem...|
