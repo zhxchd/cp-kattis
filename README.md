@@ -17,13 +17,14 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+|  34 | [Peculiar primes](./problems/primes) |6.0|Solved [3]|[C++](./main.cpp)|Just do power set of all powers, stop at each iteration when greater than `Y`; don't bother to tell if `int` overflows, just use `int`|
 | 33| [Grade Curving](./problems/gradecurving) | 4.5 | Solved [1] | [C++](./problems/gradecurving/main.cpp) | Trivial, just try `k` one after one |
 | 32| [Lucky numbers](./problems/luckynumber) | 4.9 | Solved [2] | [C++](./problems/luckynumber/main.cpp) | Brute force when `n` is small, 0 when `n` greater than 25 |
 | 31| [Chocolates](./problems/chocolates) | 5.0 | Solved [1] | [C++](./problems/chocolates/main.cpp) | Complete search all combinitions (as the search space is small), a polygon needs to be connected and its complement must be open |
 | 30| [The Big Mac Question](./problems/thebigmacquestion) | 6.7 | Working [2], WA | | Looks like a construction problem...|
 | 29| [The Sound of Silence](./problems/sound) | 5.0 | Solved [2] | [C++](./problems/sound/main.cpp) | Sliding window that records counts of all internal values, I use `std::map` for simplicity, it's perhaps an overkill and my solution is slow |
 | 28| [Music Collection](./problems/musiccollection) | 4.3 | Solved [1] | [C++](./problems/musiccollection/main.cpp) | Just brute force everything |
-| 27| [Convoy](./problems/convoy) | 5.7 | Solved [2] | [C++](./problems/convoy/main.cpp) | It is easy to verify whether a given time limit works or not, then binary search the minimum; use `long long` |
+| 27| [Convoy](./problems/convoy) | 5.7 | Solved [2] | [C++](./problems/convoy/main.cpp) | It is easy to verify whether a given time limit works or not, then binary search the minimum; use `int` |
 | 26| [Bridges and Tunnels](./problems/bridgesandtunnels) | 3.0 | Solved [1] | [C++](./problems/bridgesandtunnels/main.cpp) | A slightly modified version of UFDS |
 | 25| [Znanstvenik](./problems/znanstvenik) | 3.9 | Solved [1] | [C++](./problems/znanstvenik/main.cpp) | Complete search, rotate for easier string construction |
 | 24| [Parallel Analysis](./problems/parallelanalysis) | 3.7 | Solved [1] | [C++](./problems/parallelanalysis/main.cpp) | Store last written time for each address in a `map`, using `unordered_map` will accelerate the program by a lot |
