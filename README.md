@@ -17,6 +17,7 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 36| [Bell Ringing](./problems/bells) | 4.6 | Solved [2] | [C++](./problems/bells/main.cpp) | Recursively generate `n` from `n - 1` case|
 | 35| [Peculiar primes](./problems/primes) | 6.0 |Solved [3]|[C++](./problems/primes/main.cpp)| Just do power set of all powers, stop at each iteration when greater than `Y`; don't bother to tell if `int` overflows, just use `int` |
 | 34| [Draughts](./problems/draughts) | 3.3 | Solved [1] | [C++](./problems/draughts/main.cpp) | Trivial, I just did dfs on all white pieces to try all options |
 | 33| [Grade Curving](./problems/gradecurving) | 4.5 | Solved [1] | [C++](./problems/gradecurving/main.cpp) | Trivial, just try `k` one after one |
