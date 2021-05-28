@@ -1,14 +1,8 @@
-- [Competitive Programming Practice](#competitive-programming-practice)
-  * [Problem list](#problem-list)
-  * [Problem Sources](#problem-sources)
-    + [CS3233 AY2021S2 Assignments](#cs3233-ay2021s2-assignments)
-
 # Competitive Programming Practice
 
 This repository is used for me to practice some algorithm and data structure problems on Kattis. I am most proficient in coding with `Java`, but I'm also practising to code with `C++`. Therefore, both programming languages have appeared in this repository. I believe that appropriate comments along the code are sufficient to aid readers to understand the logic, so only the code and relevant testing files will be contained, instead of seperate files explaining my solutions.
 
-Currently, I am following the problem lists of [NUS CS3233 Competitive Programming AY2021S2](https://nus.kattis.com/courses/CS3233/CS3233_S2_AY2021). Sources for problems in this repository are listed [here](#problem-sources).
-
+Currently, I am following the problem lists of [NUS CS3233 Competitive Programming AY2021S2](https://nus.kattis.com/courses/CS3233/CS3233_S2_AY2021).
 I'll probably make this repository public when I reach 100 problems.
 
 ## Problem list
@@ -53,23 +47,3 @@ Newly-solved problems are listed on the top of the table.
 | 3 | [Graduation](./problems/skolavslutningen) | 1.2 - 1.9 | Solved [2] | [Java](./probelems/skolavslutningen/Main.java)| Union find |
 | 2 | [Keystrokes](./problems/lyklagangriti) | 1.5 - 2.5 | Solved [1] | [Java](./problems/lyklagangriti/Main.java)| Char-by-char process |
 | 1 | [Reverse](./problems/ofugsnuid/) | 1.2 - 1.4 | Solved [4] | [Java](./problems/ofugsnuid/Main.java) | Trivial reverse, use fast Java i/o |
-
-## Problem Sources
-
-### CS3233 AY2021S2 Assignments
-
-- [Kattis Set 00 - Competitive Programming Preview](https://nus.kattis.com/sessions/zha3me)
-- [Kattis Set 01 - Ad Hoc](https://nus.kattis.com/sessions/ksm5ix)
-- [Kattis Set 02 - Data Structures and Libraries](https://nus.kattis.com/sessions/d9ah9a)
-- [Kattis Set 03 - Complete Search](https://nus.kattis.com/sessions/jxb6gj)
-- [Kattis Set 04 - Dynamic Programming](https://nus.kattis.com/sessions/ekxm7g)
-- [Kattis Set 05 - Greedy and Network Flow](https://nus.kattis.com/sessions/mv958o)
-- [Kattis Set 06 - CS2040/C/S++ Basic Graph Review](https://nus.kattis.com/sessions/ekmrqt)
-- [Midterm Team Contest](https://nus.kattis.com/sessions/ippxni)
-- [Kattis Set 07 - Graph Matching and Easier Mathematics](https://nus.kattis.com/sessions/krkia7)
-- [Kattis Set 08 - NP-hard Problems + Misc 1](https://nus.kattis.com/sessions/nha2wi)
-- [Kattis Set 09 - Harder Mathematics](https://nus.kattis.com/sessions/he8byc)
-- [Kattis Set 10 - String Processing and BSTA+Other](https://nus.kattis.com/sessions/ct35ji)
-- [Kattis Set 11 - Computational Geometry + Misc 2](https://nus.kattis.com/sessions/sgjgur)
-- [Kattis Set 12 - Mix and Match](https://nus.kattis.com/sessions/sghyqk)
-- [Final Team Contest](https://nus.kattis.com/sessions/c8r7xp)
