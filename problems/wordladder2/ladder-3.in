@@ -1,0 +1,8 @@
+4
+CAT
+DOG
+COT
+COG
+
+CAT -> COT (1)           -> (via COG)(3) DOG
+    -> COG (via CAG) (2)
