@@ -13,6 +13,7 @@
 *.class
 *.sm
 .*
+problems/*/a.out
 
 # Ignore `bin` dir
 bin/
