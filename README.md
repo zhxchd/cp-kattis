@@ -1,8 +1,7 @@
 # Competitive Programming Practice
 
-This repository is used for me to practice some algorithm and data structure problems on Kattis. I am most proficient in coding with `Java`, but I'm also practising to code with `C++`. Therefore, both programming languages have appeared in this repository. I believe that appropriate comments along the code are sufficient to aid readers to understand the logic, so only the code and relevant testing files will be contained, instead of seperate files explaining my solutions.
+This repository is used for me to practice some algorithm and data structure problems on Kattis. Most of the code is in `C++`. I believe that appropriate comments along the code are sufficient to aid readers to understand the logic, so only the code and relevant testing files will be contained, instead of seperate files explaining my solutions.
 
-Currently, I am following the problem lists of [NUS CS3233 Competitive Programming AY2021S2](https://nus.kattis.com/courses/CS3233/CS3233_S2_AY2021).
 I'll probably make this repository public when I reach 100 problems.
 
 ## Problem list
@@ -11,6 +10,7 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 38| [ReMorse](./problems/remorse/) |  2.7 | Solved [1] | [C++](./problems/remorse/main.cpp) | Greedily use shortest code for most frequent letters. |
 | 37| [Word Ladder](./problems/wordladder2) | 6.9 | Working [21] | | |
 | 36| [Bell Ringing](./problems/bells) | 4.6 | Solved [2] | [C++](./problems/bells/main.cpp) | Recursively generate `n` from `n - 1` case|
 | 35| [Peculiar primes](./problems/primes) | 6.0 |Solved [3]|[C++](./problems/primes/main.cpp)| Just do power set of all powers, stop at each iteration when greater than `Y`; don't bother to tell if `int` overflows, just use `long long` |
