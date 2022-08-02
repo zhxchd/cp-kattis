@@ -10,6 +10,7 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 40| [Using Digits](./problems/usingdigits/) | 4.9 | Solved [4] | [C++](./problems/usingdigits/main.cpp) | SSSP considering the code, note that cannot read code into an int since it's too long. My solution is slow but passes. |
 | 39| [Predicting GME](./problems/predictinggme/) | 6.2 | Solved [7] | [C++](./problems/predictinggme/main.cpp) | Use DP to enumerate all cases. |
 | 38| [ReMorse](./problems/remorse/) |  2.7 | Solved [1] | [C++](./problems/remorse/main.cpp) | Greedily use shortest code for most frequent letters. |
 | 37| [Word Ladder](./problems/wordladder2) | 6.9 | Working [21] | | |
