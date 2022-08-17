@@ -10,8 +10,9 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
-| 42| [godzilla](./problems/godzilla/) | 5.4 | Solved [12] | [C++](./problems/godzilla/main.cpp) |APSP from all mechs through BFS. | 
-| 41| [redbluetree](./problems/redbluetree/) | 5.6 | Solved [9] | [C++](./problems/redbluetree/main.cpp) | Find STs with at min/max number of blue edges. |
+| 43| [Counting Chocolates](./problems/countingchocolate/) | 4.4 | Solved [2] | [Python](./problems/countingchocolate/main.py) | Simple recursion, but with memorization. |
+| 42| [Godzilla](./problems/godzilla/) | 5.4 | Solved [12] | [C++](./problems/godzilla/main.cpp) |APSP from all mechs through BFS. | 
+| 41| [Red/Blue Spanning Tree](./problems/redbluetree/) | 5.6 | Solved [9] | [C++](./problems/redbluetree/main.cpp) | Find STs with at min/max number of blue edges. |
 | 40| [Using Digits](./problems/usingdigits/) | 4.9 | Solved [4] | [C++](./problems/usingdigits/main.cpp) | SSSP considering the code, note that cannot read code into an int since it's too long. My solution is slow but passes. |
 | 39| [Predicting GME](./problems/predictinggme/) | 6.2 | Solved [7] | [C++](./problems/predictinggme/main.cpp) | Use DP to enumerate all cases. |
 | 38| [ReMorse](./problems/remorse/) |  2.7 | Solved [1] | [C++](./problems/remorse/main.cpp) | Greedily use shortest code for most frequent letters. |
