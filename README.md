@@ -10,6 +10,7 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 45| [Simple Arithmetic](./problems/simplearithmetic/) | 1.2 - 4.8 | Solved (100/100) [3] | [Java](./problems/simplearithmetic/Main.java) | Use `BigDecimal` in `Java`. I tried `long double` in `C++` and only got 75/100. |
 | 44| [Sequence Reduction](./problems/sequencereduction/) | 4.5 - 5.8 | Solved (100/100) [4] | [C++](./problems/sequencereduction/main.cpp) | Reduce sequences to the left and right of maximum first, then finally reduce max. |
 | 43| [Counting Chocolate](./problems/countingchocolate/) | 4.4 | Solved [2] | [Python](./problems/countingchocolate/main.py) | Simple recursion, but with memorization. |
 | 42| [Godzilla](./problems/godzilla/) | 5.4 | Solved [12] | [C++](./problems/godzilla/main.cpp) |APSP from all mechs through BFS. | 
