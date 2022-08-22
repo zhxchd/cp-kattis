@@ -10,6 +10,7 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 48| [Buried Treasure](./problems/buriedtreasure2/) | 5.3 | Solved [1] | [C++](./problems/buriedtreasure2/main.cpp) | Literally 2-SAT. Poly time solvable by finding strongly connected components. |
 | 47| [The Cirtrus Intern](./problems/citrusintern/) | 3.5 | Solved [4] | [C++](./problems/citrusintern/main.cpp) | DP. Each node has three states: included, not included but covered by parent, or not included and not covered by parent.|
 | 46| [Exits in Excess](./problems/exitsinexcess/) | 5.6 | Solved [1] | [C++](./problems/exitsinexcess/main.cpp) | If a directed graph only contains edges from u to v where u is smaller than v, then the graph is acyclic. |
 | 45| [Simple Arithmetic](./problems/simplearithmetic/) | 1.2 - 4.8 | Solved (100/100) [3] | [Java](./problems/simplearithmetic/Main.java) | Use `BigDecimal` in `Java`. I tried `long double` in `C++` and only got 75/100. |
