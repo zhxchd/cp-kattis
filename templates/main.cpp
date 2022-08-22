@@ -1,3 +1,8 @@
+/*
+ * https://open.kattis.com/problems/problem_abbr
+ * Author: Xiaochen Zhu, xczhu@proton.me
+ */
+
 #include <iostream>
 using namespace std;
 
