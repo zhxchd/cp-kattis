@@ -1,5 +1,6 @@
-import java.util.*;
 import java.io.*;
+
+// This one TLE on the last two test groups
 
 class Main {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -18,7 +19,7 @@ class Main {
                 offset++;
             } else if (next == 'B') {
                 offset--;
-                sb.deleteCharAt​(offset);
+                sb.deleteCharAt(offset);
             } else {
                 sb.insert(offset, next);
                 offset++;
