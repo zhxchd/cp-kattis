@@ -10,6 +10,7 @@ Newly-solved problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 50| [Perfect Skyline](./problems/perfectskyline/) | 4.3 | Solved [1] | [C++](./problems/perfectskyline/main.cpp) | N and S are small, first enumerate all ways to build, then search a consistent solution with backtracking. |
 | 49| [Jailbreak](./problems/jailbreak/) | 4.8 | Solved [1] | [C++](./problems/jailbreak/main.cpp) | SSSP from outside, prisoner 1 and presoner 2, find the location l where outside->l + p1->l + p2->l is minimized. |
 | 48| [Buried Treasure](./problems/buriedtreasure2/) | 5.3 | Solved [1] | [C++](./problems/buriedtreasure2/main.cpp) | Literally 2-SAT. Poly time solvable by finding strongly connected components. |
 | 47| [The Cirtrus Intern](./problems/citrusintern/) | 3.5 | Solved [4] | [C++](./problems/citrusintern/main.cpp) | DP. Each node has three states: included, not included but covered by parent, or not included and not covered by parent.|
