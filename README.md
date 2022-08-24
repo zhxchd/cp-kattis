@@ -59,5 +59,5 @@ Newly-AC problems are listed on the top of the table.
 | 5 | [Arrangement](./problems/upprodun) | 1.3 - 1.8 | AC (100) [1] | [Java](./problems/upprodun/Main.java)| Trivial integer division |
 | 4 | [Homework](./problems/heimavinna) | 1.1 - 1.4 | AC (100) [1] | [Java](./problems/heimavinna/Main.java)| Char-by-char process |
 | 3 | [Graduation](./problems/skolavslutningen) | 1.2 - 1.9 | AC (100) [2] | [Java](./probelems/skolavslutningen/Main.java)| Union find |
-| 2 | [Keystrokes](./problems/lyklagangriti) | 1.1 - 5.9 | AC (100) [6] | [C++]](./problems/lyklagangriti/main.cpp)| Char-by-char process, Java `StringBuilder` is too slow for this, `C++` `vector` also too slow, need to use a linked list for all the iterator and add/remove operations. |
+| 2 | [Keystrokes](./problems/lyklagangriti) | 1.1 - 5.9 | AC (100) [6] | [C++](./problems/lyklagangriti/main.cpp)| Char-by-char process, Java `StringBuilder` is too slow for this, `C++` `vector` also too slow, need to use a linked list for all the iterator and add/remove operations. |
 | 1 | [Reverse](./problems/ofugsnuid/) | 1.2 - 1.4 | AC (100) [4] | [Java](./problems/ofugsnuid/Main.java) | Trivial reverse, use fast Java i/o |
