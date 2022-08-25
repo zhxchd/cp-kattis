@@ -10,6 +10,7 @@ Newly-AC problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 52| [Social Advertising](./problems/socialadvertising) | 4.6 | AC [1] | [C++](./problems/socialadvertising/main.cpp) | Since n is small, brute force and verify all the 2^n choices, find the one with the fewest vertices. AC but kind of slow.| 
 | 51| [1's For All](./problems/1sforall/) | 7.1 | AC [5] | [Python](./problems/1sforall/main.py) | DP, enumerate all ways to form n (via +, * or c). Python string operations are slow, don't use them to split numbers. |
 | 50| [Perfect Skyline](./problems/perfectskyline/) | 4.3 | AC [1] | [C++](./problems/perfectskyline/main.cpp) | N and S are small, first enumerate all ways to build, then search a consistent solution with backtracking. |
 | 49| [Jailbreak](./problems/jailbreak/) | 4.8 | AC [1] | [C++](./problems/jailbreak/main.cpp) | SSSP from outside, prisoner 1 and presoner 2, find the location l where outside->l + p1->l + p2->l is minimized. |
