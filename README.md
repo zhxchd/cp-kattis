@@ -10,6 +10,7 @@ Newly-AC problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 54| [Tree Shopping](./problems/treeshopping/) | 3.0 | AC [1] | [C++](./problems/treeshopping/main.cpp) | Maintain max and min of slicing window. I use `map`, this is not the most efficient (nlogk, while O(n) is possible). |
 | 53| [Annoyed Coworkers](./problems/annoyedcoworkers/) | 3.3 | AC [1] | [C++](./problems/annoyedcoworkers/main.cpp) | Greedily choose the coworker who will be least annoyed after being asked for help. Use a min heap for that. |
 | 52| [Social Advertising](./problems/socialadvertising) | 4.6 | AC [1] | [C++](./problems/socialadvertising/main.cpp) | Since n is small, brute force and verify all the 2^n choices, find the one with the fewest vertices. AC but kind of slow.| 
 | 51| [1's For All](./problems/1sforall/) | 7.1 | AC [5] | [Python](./problems/1sforall/main.py) | DP, enumerate all ways to form n (via +, * or c). Python string operations are slow, don't use them to split numbers. |
