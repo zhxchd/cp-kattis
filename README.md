@@ -10,6 +10,7 @@ Newly-AC problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 55| [Font](./problems/font/) | 4.1 | AC [2] | [C++](./problems/font/main.cpp) | I simply brute force using bitmasking and got AC. Kind of slow. |
 | 54| [Tree Shopping](./problems/treeshopping/) | 3.0 | AC [1] | [C++](./problems/treeshopping/main.cpp) | Maintain max and min of slicing window. I use `map`, this is not the most efficient (nlogk, while O(n) is possible). |
 | 53| [Annoyed Coworkers](./problems/annoyedcoworkers/) | 3.3 | AC [1] | [C++](./problems/annoyedcoworkers/main.cpp) | Greedily choose the coworker who will be least annoyed after being asked for help. Use a min heap for that. |
 | 52| [Social Advertising](./problems/socialadvertising) | 4.6 | AC [1] | [C++](./problems/socialadvertising/main.cpp) | Since n is small, brute force and verify all the 2^n choices, find the one with the fewest vertices. AC but kind of slow.| 
