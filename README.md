@@ -1,6 +1,6 @@
 # Competitive Programming Practice
 
-This repository is used for me to practice some algorithm and data structure problems on Kattis. Most of the code is in `C++`. I believe that appropriate comments along the code are sufficient to aid readers to understand the logic, so only the code and relevant testing files will be contained, instead of seperate files explaining my solutions.
+This repository is used for me to practice some algorithm and data structure problems on [Kattis](https://open.kattis.com/). Most of the code is in `C++`. I believe that appropriate comments along the code are sufficient to aid readers to understand the logic, so only the code and relevant testing files will be contained, instead of seperate files explaining my solutions.
 
 I'll probably make this repository public when I reach 100 problems.
 
