@@ -10,7 +10,8 @@ Newly-AC problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
-| 58| [Jupiter Orbiter](./problems/jupiter/) | 6.2 | AC [6] | [C++](./problems/jupiter/main.cpp) | Model it as a max flow problem and then use Dinic's algorithm from [this](https://github.com/stevenhalim/cpbook-code/blob/master/ch8/maxflow.cpp) library. |
+| 59| [Cops and Robbers](./problems/copsandrobbers/) | 4.6 | AC [1] | [C++](./problems/copsandrobbers/main.cpp) | Each location has in and out node in graph, capacity from in to out is the cost, all other edges have capacity infinity. Then max flow. |
+| 58| [Jupiter Orbiter](./problems/jupiter/) | 6.2 | AC [6] | [C++](./problems/jupiter/main.cpp) | Model it as a max flow problem (s -> sensors -> queue_in -> queue_out -> downlink -> out) and then use Dinic's algorithm from [this](https://github.com/stevenhalim/cpbook-code/blob/master/ch8/maxflow.cpp) library. |
 | 57| [Programming Team Selection](./problems/programmingteamselection/) | 7.7 | AC [1] | [C++](./problems/programmingteamselection/main.cpp) | DP with bitmasking as the state. Remember to prune trivial case. |
 | 56| [Shopping](./problems/shopping/) | 6.6 | AC [6] | [C++](./problems/shopping/main.cpp) | First find the min distance among the shops, then it's TSP. Then I brute force since $s$ is small. Remember to use `long long`.|
 | 55| [Font](./problems/font/) | 4.1 | AC [2] | [C++](./problems/font/main.cpp) | I simply brute force using bitmasking and got AC. Kind of slow. |
