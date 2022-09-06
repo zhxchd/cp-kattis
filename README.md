@@ -10,6 +10,7 @@ Newly-AC problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 60| [Ice Cream](./problems/icecream2/) | 5.7 | AC [8] | [C++](./problems/icecream2/main.cpp) | Binary search the input capacity (which allows 0.5!) and use max flow to see whether the capcaity can be saturated, if not search smaller half. |
 | 59| [Cops and Robbers](./problems/copsandrobbers/) | 4.6 | AC [1] | [C++](./problems/copsandrobbers/main.cpp) | Each location has in and out node in graph, capacity from in to out is the cost, all other edges have capacity infinity. Then max flow. |
 | 58| [Jupiter Orbiter](./problems/jupiter/) | 6.2 | AC [6] | [C++](./problems/jupiter/main.cpp) | Model it as a max flow problem (s -> sensors -> queue_in -> queue_out -> downlink -> out) and then use Dinic's algorithm from [this](https://github.com/stevenhalim/cpbook-code/blob/master/ch8/maxflow.cpp) library. |
 | 57| [Programming Team Selection](./problems/programmingteamselection/) | 7.7 | AC [1] | [C++](./problems/programmingteamselection/main.cpp) | DP with bitmasking as the state. Remember to prune trivial case. |
