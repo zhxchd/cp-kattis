@@ -10,6 +10,7 @@ Newly-AC problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 63| [Sentry Robots](./problems/sentryrobots/) | 4.7 | AC [3] | [C++](./problems/sentryrobots/main.cpp) | Bipartite max matching. Copy rows/columns partitioned by obstacles to new different rows/columns so that the obstacles no longer matter.|
 | 62| [Continuous Median](./problems/continuousmedian/) | 4.0 | AC (100) [1] | [C++](./problems/continuousmedian/main.cpp) | A max heap for second half and a min heap for first half, balance them and the median is either the q1 top or the mean of two tops. |
 | 61| [Teque](./problems/teque/) | 3.9 | AC [1] | [C++](./problems/teque/main.cpp) | Data structure with O(1) operations, maintain two balanced deques. |
 | 60| [Ice Cream](./problems/icecream2/) | 5.7 | AC [8] | [C++](./problems/icecream2/main.cpp) | Binary search the input capacity (which allows 0.5!) and use max flow to see whether the capcaity can be saturated, if not search smaller half. |
