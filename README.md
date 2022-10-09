@@ -10,6 +10,7 @@ Newly-AC problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 65| [Raging River](./problems/ragingriver/) | 6.6 | AC [1] | [C++](./problems/ragingriver/main.cpp) | Min cost max flow. |
 | 64| [Airports](./problems/airports/) | 5.4 | AC [1] | [C++](./problems/airports/main.cpp) | Connect flights if one can be done right after another. Answer is m minus the max number of such compatible flights. |
 | 63| [Sentry Robots](./problems/sentryrobots/) | 4.7 | AC [3] | [C++](./problems/sentryrobots/main.cpp) | Bipartite max matching. Copy rows/columns partitioned by obstacles to new different rows/columns so that the obstacles no longer matter.|
 | 62| [Continuous Median](./problems/continuousmedian/) | 4.0 | AC (100) [1] | [C++](./problems/continuousmedian/main.cpp) | A max heap for second half and a min heap for first half, balance them and the median is either the q1 top or the mean of two tops. |
