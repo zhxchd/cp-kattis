@@ -10,6 +10,7 @@ Newly-AC problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 66| [Cordon Bleu](./problems/cordonbleu/main.cpp/) | 6.5 | AC [3] | [C++](./problems/cordonbleu/main.cpp) | Add virtual couriers and minimum cost matching on bipartite graph. |
 | 65| [Raging River](./problems/ragingriver/) | 6.6 | AC [1] | [C++](./problems/ragingriver/main.cpp) | Min cost max flow. |
 | 64| [Airports](./problems/airports/) | 5.4 | AC [1] | [C++](./problems/airports/main.cpp) | Connect flights if one can be done right after another. Answer is m minus the max number of such compatible flights. |
 | 63| [Sentry Robots](./problems/sentryrobots/) | 4.7 | AC [3] | [C++](./problems/sentryrobots/main.cpp) | Bipartite max matching. Copy rows/columns partitioned by obstacles to new different rows/columns so that the obstacles no longer matter.|
