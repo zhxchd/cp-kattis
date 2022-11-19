@@ -10,6 +10,7 @@ Newly-AC problems are listed on the top of the table.
 
 | | Problem | Difficulty | Status [Tries] | Solution | Comments |
 |-|-|-|-|-|-|
+| 68| [Minimum Weighted Vertex Cover](./problems/mwvc/) | 2.5 - 7.3 | AC (36.847852) | [C++](./problems/mwvc/main.cpp) | Modified version of [DynWVC](https://www.ijcai.org/proceedings/2018/196). |
 | 67| [Cryptographic Keys](./problems/crypto/) | 4.7 | AC [1] | [Python](./problems/crypto/main.py) | Number of zeros in base k is $v_k(n)$.|
 | 66| [Cordon Bleu](./problems/cordonbleu//) | 6.5 | AC [3] | [C++](./problems/cordonbleu/main.cpp) | Add virtual couriers and minimum cost matching on bipartite graph. |
 | 65| [Raging River](./problems/ragingriver/) | 6.6 | AC [1] | [C++](./problems/ragingriver/main.cpp) | Min cost max flow. |
