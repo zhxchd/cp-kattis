@@ -34,4 +34,4 @@ In Sample Input 2, if location 1 contains a trap and location 2 contains treasur
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

@@ -46,4 +46,4 @@ On this example, only one courier (C2) is used to retrieve the two bottles B1 an
 | `2 2 1 0 0 -1 -1 1 2 -1 0 0 ` | `5`             |
 
 ## Solution
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

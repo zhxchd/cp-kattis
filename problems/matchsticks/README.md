@@ -4,4 +4,4 @@
 
 [Open Kattis](https://open.kattis.com/problems/matchsticks)
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

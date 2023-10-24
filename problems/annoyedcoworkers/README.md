@@ -38,4 +38,4 @@ You have 4 coworkers and you need to ask for help 4 times. Initially, their anno
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

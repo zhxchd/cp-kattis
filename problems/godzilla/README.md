@@ -2,7 +2,7 @@
 
 [Open Kattis](https://open.kattis.com/problems/godzilla)
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)
 
 Godzilla is rampaging through Tokyo again. Luckily, the Superior Defender Mech Force (SDMF) has sent its mech units to stop Godzilla’s attack. Mech units are gigantic bipedal robots, usually piloted by Japanese teenagers, that carry weapons of superior destruction. The weapons are so powerful that one hit should neutralize the Godzilla threat.
 
@@ -47,4 +47,4 @@ For each test case, output one line containing a single integer: the minimum num
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

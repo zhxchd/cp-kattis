@@ -27,4 +27,4 @@ For each **get i** command, print the value inside the ith index element of the 
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

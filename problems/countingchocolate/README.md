@@ -26,4 +26,4 @@ If it is possible for Bob to split the boxes such that John and Sam get the same
 
 ## Solution
 
-[main.py](./main.py)
+[main.py](main.py)

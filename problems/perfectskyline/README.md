@@ -32,4 +32,4 @@ If no combination of the blocks can build the desired skyline then output `-1`.
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

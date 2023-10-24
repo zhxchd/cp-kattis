@@ -22,4 +22,4 @@ Output contains one line with one integer K such that N written in base K has th
 
 ## Solution
 
-[main.py](./main.py)
+[main.py](main.py)

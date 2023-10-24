@@ -42,4 +42,4 @@ For each test case print the minimum number of robots needed to guard all the po
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

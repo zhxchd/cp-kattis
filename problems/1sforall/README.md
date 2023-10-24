@@ -22,4 +22,4 @@ Output the complexity of the number, using the revised definition above.
 
 ## Solution
 
-[main.py](./main.py)
+[main.py](main.py)

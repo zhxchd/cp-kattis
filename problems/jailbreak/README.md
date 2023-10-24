@@ -29,4 +29,4 @@ Per test case:
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

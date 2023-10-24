@@ -26,4 +26,4 @@ Your solution will be tested on a set of test groups, each worth a number of poi
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

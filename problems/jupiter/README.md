@@ -35,4 +35,4 @@ Output “`possible`” if it is possible to transfer all data to Earth, and “
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

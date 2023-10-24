@@ -32,4 +32,4 @@ Output a single positive integer indicating the minimum number of planes the air
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

@@ -2,4 +2,4 @@
 
 [Open Kattis](https://open.kattis.com/problems/redbluetree)
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

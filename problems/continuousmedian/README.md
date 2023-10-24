@@ -18,4 +18,4 @@ For each test case, output *the sum* of the continuous medians of A in one line.
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

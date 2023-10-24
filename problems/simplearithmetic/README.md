@@ -41,4 +41,4 @@ Your solution will be tested on a set of test groups, each worth a number of poi
 
 ## Solution
 
-[Main.java](./Main.java)
+[Main.java](Main.java)

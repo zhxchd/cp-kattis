@@ -32,4 +32,4 @@ If some people must be left behind at the left bank, instead print `n people lef
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

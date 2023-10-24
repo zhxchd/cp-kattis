@@ -4,4 +4,4 @@
 
 [Open Kattis](https://open.kattis.com/problems/traffic)
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

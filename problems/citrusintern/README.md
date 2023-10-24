@@ -26,4 +26,4 @@ The minimum cost of infiltrating the entire organization while adhering to the r
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

@@ -20,4 +20,4 @@ For each case, display on a line the minimum number of ads needed to be placed i
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

@@ -4,4 +4,4 @@
 
 [Open Kattis](https://open.kattis.com/problems/znanstvenik)
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

@@ -20,4 +20,4 @@ For every test case, output “possible” if it’s possible to group the stude
 
 ## Solution
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

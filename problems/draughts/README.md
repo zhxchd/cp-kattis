@@ -4,4 +4,4 @@
 
 [Open Kattis](https://open.kattis.com/problems/draughts)
 
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)

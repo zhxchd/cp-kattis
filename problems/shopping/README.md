@@ -19,4 +19,4 @@ Output a line containing a single integer, the length of the shortest possible s
 | `4 6 0 1 1 1 2 1 2 3 1 3 0 1 0 2 5 1 3 5 3 1 2 3 ` | `4`             |
 
 ## Solution
-[main.cpp](./main.cpp)
+[main.cpp](main.cpp)
